@@ -1,4 +1,6 @@
 # FstRepo
 This my first repository
 <br>
-Author- Vasu
+Author- VasuDev
+<br>
+ThankYou!
